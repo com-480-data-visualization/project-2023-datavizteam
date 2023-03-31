@@ -12,6 +12,8 @@
 
 **10% of the final grade**
 
+[Milestone 1 report](https://github.com/com-480-data-visualization/project-2023-datavizteam/blob/master/milestone1.md)
+
 This is a preliminary milestone to let you set up goals for your final project and assess the feasibility of your ideas.
 Please, fill the following sections about your project.
 
