@@ -1,4 +1,4 @@
-Team name: DataVizTeam
+# Team name: DataVizTeam
 
 | Student's name | SCIPER |
 | -------------- | ------ |
