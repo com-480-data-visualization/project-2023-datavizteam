@@ -3,7 +3,7 @@
 | Student's name | SCIPER |
 | -------------- | ------ |
 |David Paul Mark |366913 |
-|Mahdi Ihdame | |270605 |
+|Mahdi Ihdeme | |270605|
 |Sara Nour Dhina |284867 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
