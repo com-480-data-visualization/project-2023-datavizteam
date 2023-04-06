@@ -44,7 +44,7 @@ The second one shows the proportion of international and domestic flights.
 
 The third one shows the proportion of enplaned (landed), deplaned (departed) and transit flights.
 
-![](./Pre_Processing/DeplanedEnapledTransit.jpg)
+![](./Pre_Processing/DeplanedEnplanedTransit.jpg)
 
 ### Related work 
 
