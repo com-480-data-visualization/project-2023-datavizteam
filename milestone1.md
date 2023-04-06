@@ -42,11 +42,17 @@ The second one shows the proportion of international and domestic flights.
 
 ![](./Pre_Processing/DomesticVSInternational.png)
 
+The third one shows the proportion of enplaned (landed), deplaned (departed) and transit flights.
+
+![](./Pre_Processing/DeplanedEnplanedTransit.png)
 
 ### Related work
 
+Some people have already worked on this dataset but the works that we've encountered are usually plots and informations about the dataset we diddn
 
-> - What others have already done with the data?
-> - Why is your approach original?
-> - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+- What others have already done with the data?
+- 
+- Why is your approach original?
+- Our approach is original because we aim to produce interactive maps to allow the audience to visualize the data instead of just reading plots or tables.
+- What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
+- In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
