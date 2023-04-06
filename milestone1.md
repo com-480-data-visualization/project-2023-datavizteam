@@ -18,6 +18,7 @@ Our dataset has 12 columns, being:
 - Operating Airline: name of the operating airline
 - Operating Airline IATA Code: IATA code of the operating airline
 - Published Airline: name of the published airline; can differ from operating airline
+- Published Airline IATA Code: IATA code of the published airline
 - GEO Summary: describes if the flight is 'Domestic' or 'International'
 - GEO Region: geographic region of departure/arrival
 - Activity Type Code: describes if the given flight acticity is a flight departing from San Francisco International Airport ('Enplaned'), arriving at it ('Deplaned') or having it as transit airport ('Thru / Transit')
