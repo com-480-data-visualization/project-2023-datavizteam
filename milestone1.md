@@ -36,11 +36,11 @@ Here are some plot that we've produced.
 
 The first one is the number of passengers by year, we can clearly see the impact of COVID (2020) in the number of yearly passengers.
 
-![](./Pre_ProcessingImages/PassengersPerYear.png)
+![](./Pre_Processing/PassengersPerYear.png)
 
 The second one shows the proportion of international and domestic flights.
 
-![](./Pre_ProcessingImages/DomesticVSInternational.png)
+![](./Pre_Processing/DomesticVSInternational.png)
 
 
 ### Related work
