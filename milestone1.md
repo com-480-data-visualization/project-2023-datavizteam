@@ -50,7 +50,7 @@ The third one shows the proportion of enplaned (landed), deplaned (departed) and
 
 Some people have already worked on this dataset but the works that we've encountered are usually plots and informations about the dataset we diddn
 
-- What others have already done with the data?
+- What others have already done with the data? 
 - 
 - Why is your approach original?
 - Our approach is original because we aim to produce interactive maps to allow the audience to visualize the data instead of just reading plots or tables.
