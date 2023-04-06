@@ -46,7 +46,7 @@ The third one shows the proportion of enplaned (landed), deplaned (departed) and
 
 ![](./Pre_Processing/DeplanedEnapledTransit.jpg)
 
-### Related work
+### Related work 
 
 We haven't encountered many interesting visualizations but here are some links that we found interesting:
 - https://www.kaggle.com/code/melikedilekci/airlines-traffic-passenger-statistics
