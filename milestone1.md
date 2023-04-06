@@ -9,10 +9,6 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
->
-> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
-
 We have decided to examine the dataset which we got from following source: https://catalog.data.gov/dataset/air-traffic-passenger-statistics
 
 It contains data about air traffic passenger statistics for all flights that depart from, arrive at or have transit at the San Francisco International Airport (SFO) from July 2005 until December 2022. As the dataset gets updated every 3 months, we are using the most current version, but in the future the dataset found at the given source might contain even more data.
