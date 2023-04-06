@@ -67,6 +67,8 @@ We haven't encountered many interesting visualizations but here are some links t
 
 Our approach is original because we aim to produce interactive maps and plots to allow the audience to visualize the data instead of just reading plots or tables.
 
+We have not worked with this dataset in any courses or context before.
+
 Sources of inspiration:
 - 
 
