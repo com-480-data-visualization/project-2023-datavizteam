@@ -28,7 +28,7 @@ Another axis which we can explore is the creation of charts that provides additi
 
 ### Exploratory Data Analysis
 
-We have done some basic pre-processing on our dataset using the panda library. The first thing we did was to separate the "Activity Period" column into two separate columns "Year" and "Month" so it's easier to use. Here are some interesting facts about the dataset.
+We have done some basic pre-processing on our dataset using the panda library. Our notebook can be found [here](https://github.com/com-480-data-visualization/project-2023-datavizteam/blob/master/Pre_Processing/Milestone1_PreProcessing.ipynb). The first thing we did was to separate the "Activity Period" column into two separate columns "Year" and "Month" so it's easier to use. Here are some interesting facts about the dataset.
 - There are 102 differents airlines operating at the San Francisco International Airport.
 - The maximum number of passengers per month was attained by United Airlines in August 2013: 659'837 passengers.
 
@@ -48,11 +48,11 @@ The third one shows the proportion of enplaned (landed), deplaned (departed) and
 
 ### Related work
 
-Some people have already worked on this dataset but the works that we've encountered are usually plots and informations about the dataset we diddn
+We haven't encountered many interesting visualizations but here are some links that we found interesting:
+- https://www.kaggle.com/code/melikedilekci/airlines-traffic-passenger-statistics
 
-- What others have already done with the data? 
+Our approach is original because we aim to produce interactive maps and plots to allow the audience to visualize the data instead of just reading plots or tables.
+
+Sources of inspiration:
 - 
-- Why is your approach original?
-- Our approach is original because we aim to produce interactive maps to allow the audience to visualize the data instead of just reading plots or tables.
-- What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-- In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+
