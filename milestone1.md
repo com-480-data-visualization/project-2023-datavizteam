@@ -28,11 +28,11 @@ Another axis which we can explore is the creation of charts that provides additi
 
 ### Exploratory Data Analysis
 
-We have done some basic pre-processing on our dataset using the panda library. The first thing we did was to separate the "Activity Period" column into two separate columns "Year" and "Month" so it's easier to use. Here are some interesting facts about our dataset
+We have done some basic pre-processing on our dataset using the panda library. The first thing we did was to separate the "Activity Period" column into two separate columns "Year" and "Month" so it's easier to use. Here are some interesting facts about the dataset.
 - There are 102 differents airlines operating at the San Francisco International Airport.
-- The maximum number of passengers per month was attained by United Airlines in August 2013.
+- The maximum number of passengers per month was attained by United Airlines in August 2013: 659'837 passengers.
 
-Here are some plot that we've produced.
+Here are some plots that we've produced.
 
 The first one is the number of passengers by year, we can clearly see the impact of COVID (2020) in the number of yearly passengers.
 
