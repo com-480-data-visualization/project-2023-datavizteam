@@ -59,7 +59,7 @@ The third one shows the proportion of enplaned (landed), deplaned (departed) and
 
 ### Related work 
 
-We haven't encountered many interesting visualizations but here are some links that we found interesting:
+We haven't encountered many interesting visualizations on this dataset but are we found these interesting stats about the dataset:
 - https://www.kaggle.com/code/melikedilekci/airlines-traffic-passenger-statistics
 
 Our approach is original because we aim to produce interactive maps and plots to allow the audience to visualize the data instead of just reading plots or tables.
