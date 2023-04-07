@@ -66,6 +66,9 @@ Our approach is original because we aim to produce interactive maps and plots to
 
 We have not worked with this dataset in any courses or context before.
 
-Sources of inspiration:
-- 
+### Sources of inspiration
+
+Here are some links that inspired us for our interactive map:
+- https://coronavirus.data.gov.uk/details/interactive-map/cases
+- https://languageplayer.io/language-map/
 
