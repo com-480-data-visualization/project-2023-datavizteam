@@ -19,6 +19,8 @@
 
 [Milestone 2 report](https://github.com/com-480-data-visualization/project-2023-datavizteam/blob/master/milestone2.md)
 
+You can find our website skeleton [here](https://github.com/com-480-data-visualization/project-2023-datavizteam/blob/master/website_skeleton)
+
 ## Milestone 3 (4th June, 5pm)
 
 **80% of the final grade**
