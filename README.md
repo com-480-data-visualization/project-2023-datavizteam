@@ -17,6 +17,7 @@
 
 **10% of the final grade**
 
+[Milestone 1 report](https://github.com/com-480-data-visualization/project-2023-datavizteam/blob/master/milestone2.md)
 
 ## Milestone 3 (4th June, 5pm)
 
