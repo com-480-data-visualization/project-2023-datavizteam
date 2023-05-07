@@ -17,7 +17,7 @@
 
 **10% of the final grade**
 
-[Milestone 2 report](https://github.com/com-480-data-visualization/project-2023-datavizteam/blob/master/milestone2.md)
+[Milestone 2 report](https://github.com/com-480-data-visualization/project-2023-datavizteam/blob/master/Data_Visualisation_Milestone_2.pdf)
 
 You can find our website skeleton [here](https://github.com/com-480-data-visualization/project-2023-datavizteam/blob/master/website_skeleton)
 
