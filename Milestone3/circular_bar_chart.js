@@ -18,7 +18,7 @@ var svg = d3.select("#my_dataviz")
   .append("g")
     .attr("transform", "translate(" + (width / 2 + margin.left) + "," + (height / 2 + margin.top) + ")");
 
-d3.csv("C:/Users/sarad/OneDrive/Bureau/COURS/_MA2/DataViz/Project/Milestone3_Visualizations/test_airline_count.csv", function(data){
+d3.csv("test_airline_count.csv", function(data){
   // Scales
   var x = d3.scaleBand()
       .range([0, 2 * Math.PI])    // X axis goes from 0 to 2pi = all around the circle. If I stop at 1Pi, it will be around a half circle
