@@ -27,7 +27,9 @@ You can find our website skeleton [here](https://github.com/com-480-data-visuali
 ### Deliverables
 
 Our process book can be found [here]()
+
 Our video can be found [here]()
+
 Our website can be found [here]()
 
 ## Late policy
