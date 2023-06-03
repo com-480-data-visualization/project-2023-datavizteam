@@ -24,7 +24,11 @@ You can find our website skeleton [here](https://github.com/com-480-data-visuali
 ## Milestone 3 (4th June, 5pm)
 
 **80% of the final grade**
+### Deliverables
 
+Our process book can be found [here]()
+Our video can be found [here]()
+Our website can be found [here]()
 
 ## Late policy
 
