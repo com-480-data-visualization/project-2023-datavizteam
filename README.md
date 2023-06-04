@@ -28,7 +28,7 @@ You can find our website skeleton [here](https://github.com/com-480-data-visuali
 
 Our process book can be found [here](https://github.com/com-480-data-visualization/project-2023-datavizteam/tree/master/Milestone3/Process_Book.pdf)
 
-Our video can be found [here]()
+Our video can be found [here](https://youtu.be/8B9qNhA6ZRI)
 
 Our website can be found [here](https://sdhina.github.io/datavizteam.github.io/)
 
