@@ -30,7 +30,7 @@ Our process book can be found [here]()
 
 Our video can be found [here]()
 
-Our website can be found [here]()
+Our website can be found [here](https://sdhina.github.io/datavizteam.github.io/)
 
 ## Late policy
 
